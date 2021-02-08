@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <Authors>Adam Shirey</Authors>
+    <Product>GreenwaldKhanna.NET</Product>
+    <PackageId>GreenwaldKhanna.NET</PackageId>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Description>Greenwald-Khanna Quantile Estimator</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/aeshirey/GreenwaldKhanna.NET</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/aeshirey/GreenwaldKhanna.NET</RepositoryUrl>
+    <PackageTags>quantile, estimator, probabilistic, approximate</PackageTags>
+  </PropertyGroup>
+
+</Project>
